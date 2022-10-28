@@ -157,7 +157,7 @@ button#sopa{
         padding: 10px;
         font-size:1rem;
         max-width: 100%;
-        width: 20%;
+        width: 22%;
         background: red;
         color:white;
         border:none;
@@ -180,5 +180,15 @@ button#sopa{
     .click p{
         color:#4b4b4b;
         text-decoration: line-through;
+    }
+
+    h1{
+        margin:20px auto;
+        text-align: center;
+        background-color: #060d1d;
+        color:white;
+        width:32vw;
+        border-radius: 4px;
+        padding: 2px;
     }
 }
